@@ -8,7 +8,7 @@ This repo is an attempt to replicate the algorithms and the results of the paper
 
 #### The Sokoban Game
 
-See notebook *Woulda Coulda Shoulda - the Sokoban Game* for more information.
+See notebook [*Woulda Coulda Shoulda - the Sokoban Game*](https://nbviewer.jupyter.org/github/dam-grassman/woulda/blob/master/Woudla%20Coulda%20Shoulda%20-%20The%20Sokoban%20Game.ipynb) for more information.
 
 #### Learn a policy using A3C
 
@@ -23,8 +23,8 @@ python baby_a3c --env Sokoban-small-v0 --processes 8
 
 In order to generate initial states, the authors used a generative algo called [DRAW](https://arxiv.org/pdf/1502.04623.pdf) whose implementation has been inspired from this [repo](https://github.com/Natsu6767/Generating-Devanagari-Using-DRAW).
 
-For more information on how DRAW works and is applied in our context, refer to the notebook *Woulda Coulda Shoulda - DRAW* 
+For more information on how DRAW works and is applied in our context, refer to the notebook [*Woulda Coulda Shoulda - DRAW*](https://nbviewer.jupyter.org/github/dam-grassman/woulda/blob/master/Woudla%20Coulda%20Shoulda%20-%20Draw.ipynb)
 
 #### Step-by-Step
 
-A more in-depth analysis of the paper can be found in the notebook *Woulda Coulda Shoulda - Step by Step*. 
+A more in-depth analysis of the paper can be found in the notebook [*Woulda Coulda Shoulda - Step by Step*](https://nbviewer.jupyter.org/github/dam-grassman/woulda/blob/master/Woudla%20Coulda%20Shoulda%20-%20Step%20by%20Step.ipynb) 
